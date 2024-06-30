@@ -1,0 +1,66 @@
+#move{
+    margin-left: 25%;
+    margin-top: 10%;
+}
+#img{
+    position: absolute;
+    z-index: -1;
+}
+
+.in{
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 20%;
+
+}
+
+.d{
+    margin-left: 80px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+#cal{
+    background-color: green;
+    font-weight: 900;
+    font-family: cursive;
+    color: aliceblue;
+    cursor: pointer;
+    margin-left: 200px;
+}
+#cal:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+#re{
+    background-color: brown;
+    color: aliceblue;
+    font-weight: 900;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+#re:hover{
+    background-color: aliceblue;
+    color: black;
+
+}
+
+#output{
+    top: 40%;
+    position: absolute;
+    padding: 30px 80px;
+    font-size: larger;
+    font-weight: 900;
+    color: brown;
+    border-radius: 20px;
+    background-color:aquamarine;
+}
+
+#tag{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+    text-decoration: underline dashed black;
+}
