@@ -6,9 +6,6 @@
     position: absolute;
     z-index: -1;
 }
-body{
-    background-color: chartreuse;
-}
 
 .in{
     padding: 20px;
